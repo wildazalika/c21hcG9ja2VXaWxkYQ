@@ -12,201 +12,53 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Wilda =====
-[1]Wilda       |08:04:08 | 11-10-2026| login OK @wildazalika | score=920 rank=6375
-[1]Wilda       |08:04:08 | 11-10-2026| serverTime=2026-10-11T08:04:08.000Z local=2026-10-11T08:04:08.191Z
+[1]Wilda       |06:51:35 | 12-10-2026| login OK @wildazalika | score=990 rank=6151
+[1]Wilda       |06:51:35 | 12-10-2026| serverTime=2026-10-12T06:51:34.000Z local=2026-10-12T06:51:35.019Z
 --> [1]Wilda menjalankan: Claim Daily
-[1]Wilda       |08:04:09 | 11-10-2026| daily: sudah klaim (already=true) score=920
---> [1]Wilda menjalankan: Auto All Tasks (3 pending)
-[1]Wilda       |08:04:12 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109193010574644522
-[1]Wilda       |08:04:12 | 11-10-2026| delay 10s...
-[1]Wilda       |08:04:25 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109192884346505091
-[1]Wilda       |08:04:25 | 11-10-2026| delay 10s...
-[1]Wilda       |08:04:39 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109192997883568032
-[1]Wilda       |08:04:39 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Wilda       |08:04:41 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/wildazalika/status/2109193190316595393
+[1]Wilda       |06:51:36 | 12-10-2026| daily: OK +10 poin score=1000
+--> [1]Wilda menjalankan: Auto All Tasks (7 pending)
+[1]Wilda       |06:51:38 | 12-10-2026| [1/7] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109536913466266587
+[1]Wilda       |06:51:38 | 12-10-2026| delay 10s...
+[1]Wilda       |06:51:50 | 12-10-2026| [2/7] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109537009899927802
+[1]Wilda       |06:51:50 | 12-10-2026| delay 10s...
+[1]Wilda       |06:52:02 | 12-10-2026| [3/7] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Wilda       |06:52:02 | 12-10-2026| delay 10s...
+[1]Wilda       |06:52:14 | 12-10-2026| [4/7] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109537140572978917
+[1]Wilda       |06:52:14 | 12-10-2026| delay 10s...
+[1]Wilda       |06:52:26 | 12-10-2026| [5/7] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109537363891479436
+[1]Wilda       |06:52:26 | 12-10-2026| delay 10s...
+[1]Wilda       |06:52:39 | 12-10-2026| [6/7] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Wilda       |06:52:39 | 12-10-2026| delay 10s...
+[1]Wilda       |06:52:52 | 12-10-2026| [7/7] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109537445294157405
+[1]Wilda       |06:52:52 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Wilda       |06:52:53 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/wildazalika/status/2109537256965280033
 --> [1]Wilda menjalankan: Watch Anime
-[1]Wilda       |08:04:43 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Wilda       |08:04:43 | 11-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Wilda       |08:04:47 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Wilda       |08:04:53 | 11-10-2026| watch oshi-first-journey: 7% (6.59/87.00s)
-[1]Wilda       |08:05:01 | 11-10-2026| watch oshi-first-journey: 14% (12.59/87.00s)
-[1]Wilda       |08:05:09 | 11-10-2026| watch oshi-first-journey: 22% (19.96/87.00s)
-[1]Wilda       |08:05:16 | 11-10-2026| watch oshi-first-journey: 30% (26.89/87.00s)
-[1]Wilda       |08:05:22 | 11-10-2026| watch oshi-first-journey: 37% (32.87/87.00s)
-[1]Wilda       |08:05:32 | 11-10-2026| watch oshi-first-journey: 44% (38.80/87.00s)
-[1]Wilda       |08:05:42 | 11-10-2026| watch oshi-first-journey: 54% (47.78/87.00s)
-[1]Wilda       |08:05:52 | 11-10-2026| watch oshi-first-journey: 65% (56.77/87.00s)
-[1]Wilda       |08:05:59 | 11-10-2026| watch oshi-first-journey: 74% (64.90/87.00s)
-[1]Wilda       |08:06:10 | 11-10-2026| watch oshi-first-journey: 82% (71.38/87.00s)
-[1]Wilda       |08:06:21 | 11-10-2026| watch oshi-first-journey: 92% (80.60/87.00s)
-[1]Wilda       |08:06:21 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.60/87.00s)
+[1]Wilda       |06:52:54 | 12-10-2026| watch: semua video sudah completed
 --> [1]Wilda menjalankan: Read Article
-[1]Wilda       |08:06:26 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Wilda       |08:06:27 | 11-10-2026| mint eligibility: {"userId":"1780944433254674432","youtube":{"url":"https://www.youtube.com/@zwildaa","status":"submitted","revision":"6f6e245f-d967-4cf6-a724-4d317aa269c6","submittedAt":1791678434,"reviewedAt":1791688
-[1]Wilda       |08:06:27 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Wilda       |06:52:56 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Wilda       |06:52:56 | 12-10-2026| mint eligibility: {"userId":"1780944433254674432","youtube":{"url":"https://www.youtube.com/@zwildaa","status":"submitted","revision":"6f6e245f-d967-4cf6-a724-4d317aa269c6","submittedAt":1791678434,"reviewedAt":1791688
+[1]Wilda       |06:52:56 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Wilda menjalankan: Quiz Anime
-[1]Wilda       |08:06:28 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Wilda       |08:06:28 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Wilda       |08:06:28 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Wilda       |08:06:28 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Wilda       |08:06:28 | 11-10-2026| quiz ep5: sudah dijawab
-[1]Wilda       |08:06:28 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Wilda       |06:52:57 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Wilda       |06:52:57 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Wilda       |06:52:57 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Wilda       |06:52:57 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Wilda       |06:52:57 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Wilda       |06:52:57 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Wilda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Wilda       |08:06:34 | 11-10-2026| music memutar "ぬくもり" (188s)...
-[1]Wilda       |08:06:48 | 11-10-2026| music "ぬくもり": 4% (9.0036/188s)
-[1]Wilda       |08:07:00 | 11-10-2026| music "ぬくもり": 11% (21.837600000000002/188s)
-[1]Wilda       |08:07:13 | 11-10-2026| music "ぬくもり": 17% (32.5467/188s)
-[1]Wilda       |08:07:26 | 11-10-2026| music "ぬくもり": 23% (44.0631/188s)
-[1]Wilda       |08:07:38 | 11-10-2026| music "ぬくもり": 29% (56.123999999999995/188s)
-[1]Wilda       |08:07:50 | 11-10-2026| music "ぬくもり": 35% (66.80879999999999/188s)
-[1]Wilda       |08:08:02 | 11-10-2026| music "ぬくもり": 41% (77.5152/188s)
-[1]Wilda       |08:08:14 | 11-10-2026| music "ぬくもり": 46% (88.1262/188s)
-[1]Wilda       |08:08:27 | 11-10-2026| music "ぬくもり": 52% (98.9469/188s)
-[1]Wilda       |08:08:40 | 11-10-2026| music "ぬくもり": 59% (111.1302/188s)
-[1]Wilda       |08:08:53 | 11-10-2026| music "ぬくもり": 65% (123.0507/188s)
-[1]Wilda       |08:09:14 | 11-10-2026| music "ぬくもり": 71% (134.0766/188s)
-[1]Wilda       |08:09:25 | 11-10-2026| music "ぬくもり": 81% (153.1755/188s)
-[1]Wilda       |08:09:26 | 11-10-2026| music "ぬくもり": selesai 153.1755s
-[1]Wilda       |08:09:28 | 11-10-2026| music memutar "桃色の頃" (213s)...
-[1]Wilda       |08:09:40 | 11-10-2026| music "桃色の頃": 4% (9/213s)
-[1]Wilda       |08:09:51 | 11-10-2026| music "桃色の頃": 8% (19.025100000000002/213s)
-[1]Wilda       |08:10:02 | 11-10-2026| music "桃色の頃": 13% (28.924200000000003/213s)
-[1]Wilda       |08:10:13 | 11-10-2026| music "桃色の頃": 18% (38.8845/213s)
-[1]Wilda       |08:10:24 | 11-10-2026| music "桃色の頃": 22% (48.7989/213s)
-[1]Wilda       |08:10:35 | 11-10-2026| music "桃色の頃": 27% (59.1606/213s)
-[1]Wilda       |08:10:47 | 11-10-2026| music "桃色の頃": 32% (69.19380000000001/213s)
-[1]Wilda       |08:10:58 | 11-10-2026| music "桃色の頃": 37% (79.86420000000001/213s)
-[1]Wilda       |08:11:10 | 11-10-2026| music "桃色の頃": 42% (89.92350000000002/213s)
-[1]Wilda       |08:11:23 | 11-10-2026| music "桃色の頃": 47% (100.49040000000002/213s)
-[1]Wilda       |08:11:37 | 11-10-2026| music "桃色の頃": 52% (112.40190000000003/213s)
-[1]Wilda       |08:11:48 | 11-10-2026| music "桃色の頃": 58% (124.90470000000002/213s)
-[1]Wilda       |08:12:00 | 11-10-2026| music "桃色の頃": 63% (134.9712/213s)
-[1]Wilda       |08:12:12 | 11-10-2026| music "桃色の頃": 68% (145.2663/213s)
-[1]Wilda       |08:12:23 | 11-10-2026| music "桃色の頃": 73% (156.3228/213s)
-[1]Wilda       |08:12:35 | 11-10-2026| music "桃色の頃": 78% (166.2525/213s)
-[1]Wilda       |08:12:46 | 11-10-2026| music "桃色の頃": 83% (176.9139/213s)
-[1]Wilda       |08:12:47 | 11-10-2026| music "桃色の頃": selesai 176.9139s
-[1]Wilda       |08:12:51 | 11-10-2026| music memutar "記憶の名前" (224s)...
-[1]Wilda       |08:13:02 | 11-10-2026| music "記憶の名前": 4% (8.9991/224s)
-[1]Wilda       |08:13:13 | 11-10-2026| music "記憶の名前": 8% (19.145699999999998/224s)
-[1]Wilda       |08:13:24 | 11-10-2026| music "記憶の名前": 12% (29.0736/224s)
-[1]Wilda       |08:13:35 | 11-10-2026| music "記憶の名前": 17% (39.0654/224s)
-[1]Wilda       |08:13:46 | 11-10-2026| music "記憶の名前": 21% (48.982499999999995/224s)
-[1]Wilda       |08:13:57 | 11-10-2026| music "記憶の名前": 26% (59.020199999999996/224s)
-[1]Wilda       |08:14:09 | 11-10-2026| music "記憶の名前": 30% (68.9418/224s)
-[1]Wilda       |08:14:21 | 11-10-2026| music "記憶の名前": 35% (79.4673/224s)
-[1]Wilda       |08:14:34 | 11-10-2026| music "記憶の名前": 40% (89.9289/224s)
-[1]Wilda       |08:14:46 | 11-10-2026| music "記憶の名前": 45% (101.8134/224s)
-[1]Wilda       |08:14:57 | 11-10-2026| music "記憶の名前": 50% (112.554/224s)
-[1]Wilda       |08:15:08 | 11-10-2026| music "記憶の名前": 54% (122.481/224s)
-[1]Wilda       |08:15:19 | 11-10-2026| music "記憶の名前": 59% (132.3981/224s)
-[1]Wilda       |08:15:31 | 11-10-2026| music "記憶の名前": 63% (142.4394/224s)
-[1]Wilda       |08:15:43 | 11-10-2026| music "記憶の名前": 68% (153.06390000000002/224s)
-[1]Wilda       |08:15:54 | 11-10-2026| music "記憶の名前": 73% (163.86120000000003/224s)
-[1]Wilda       |08:16:05 | 11-10-2026| music "記憶の名前": 77% (173.86560000000003/224s)
-[1]Wilda       |08:16:17 | 11-10-2026| music "記憶の名前": 82% (184.34250000000003/224s)
-[1]Wilda       |08:16:17 | 11-10-2026| music "記憶の名前": selesai 184.34250000000003s
-[1]Wilda       |08:16:23 | 11-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Wilda       |08:16:35 | 11-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Wilda       |08:16:47 | 11-10-2026| music "Smart Pocket": 8% (19.4859/232s)
-[1]Wilda       |08:16:58 | 11-10-2026| music "Smart Pocket": 13% (30.474/232s)
-[1]Wilda       |08:17:10 | 11-10-2026| music "Smart Pocket": 17% (40.4325/232s)
-[1]Wilda       |08:17:24 | 11-10-2026| music "Smart Pocket": 22% (51.525/232s)
-[1]Wilda       |08:17:36 | 11-10-2026| music "Smart Pocket": 27% (64.20779999999999/232s)
-[1]Wilda       |08:17:49 | 11-10-2026| music "Smart Pocket": 32% (74.7036/232s)
-[1]Wilda       |08:18:00 | 11-10-2026| music "Smart Pocket": 37% (86.68979999999999/232s)
-[1]Wilda       |08:18:12 | 11-10-2026| music "Smart Pocket": 41% (96.6438/232s)
-[1]Wilda       |08:18:23 | 11-10-2026| music "Smart Pocket": 46% (107.1198/232s)
-[1]Wilda       |08:18:35 | 11-10-2026| music "Smart Pocket": 50% (117.0936/232s)
-[1]Wilda       |08:18:48 | 11-10-2026| music "Smart Pocket": 55% (127.827/232s)
-[1]Wilda       |08:18:59 | 11-10-2026| music "Smart Pocket": 60% (139.5567/232s)
-[1]Wilda       |08:19:10 | 11-10-2026| music "Smart Pocket": 64% (149.5152/232s)
-[1]Wilda       |08:19:22 | 11-10-2026| music "Smart Pocket": 68% (159.453/232s)
-[1]Wilda       |08:19:36 | 11-10-2026| music "Smart Pocket": 73% (170.0046/232s)
-[1]Wilda       |08:19:50 | 11-10-2026| music "Smart Pocket": 78% (182.6415/232s)
-[1]Wilda       |08:20:02 | 11-10-2026| music "Smart Pocket": 84% (195.6654/232s)
-[1]Wilda       |08:20:03 | 11-10-2026| music "Smart Pocket": selesai 195.6654s
-[1]Wilda       |08:20:05 | 11-10-2026| music memutar "神様みたいに" (254s)...
-[1]Wilda       |08:20:17 | 11-10-2026| music "神様みたいに": 3% (9.0054/254s)
-[1]Wilda       |08:20:29 | 11-10-2026| music "神様みたいに": 7% (19.6839/254s)
-[1]Wilda       |08:20:44 | 11-10-2026| music "神様みたいに": 12% (30.6477/254s)
-[1]Wilda       |08:21:01 | 11-10-2026| music "神様みたいに": 17% (44.0631/254s)
-[1]Wilda       |08:21:12 | 11-10-2026| music "神様みたいに": 23% (58.813199999999995/254s)
-[1]Wilda       |08:21:23 | 11-10-2026| music "神様みたいに": 27% (69.1065/254s)
-[1]Wilda       |08:21:34 | 11-10-2026| music "神様みたいに": 31% (79.2036/254s)
-[1]Wilda       |08:21:46 | 11-10-2026| music "神様みたいに": 35% (89.20349999999999/254s)
-[1]Wilda       |08:21:58 | 11-10-2026| music "神様みたいに": 39% (99.78569999999999/254s)
-[1]Wilda       |08:22:10 | 11-10-2026| music "神様みたいに": 43% (110.32289999999999/254s)
-[1]Wilda       |08:22:21 | 11-10-2026| music "神様みたいに": 47% (121.005/254s)
-[1]Wilda       |08:22:32 | 11-10-2026| music "神様みたいに": 51% (131.0256/254s)
-[1]Wilda       |08:22:44 | 11-10-2026| music "神様みたいに": 55% (141.3702/254s)
-[1]Wilda       |08:22:55 | 11-10-2026| music "神様みたいに": 59% (151.7049/254s)
-[1]Wilda       |08:23:06 | 11-10-2026| music "神様みたいに": 63% (161.8857/254s)
-[1]Wilda       |08:23:18 | 11-10-2026| music "神様みたいに": 67% (172.03230000000002/254s)
-[1]Wilda       |08:23:29 | 11-10-2026| music "神様みたいに": 71% (182.40840000000003/254s)
-[1]Wilda       |08:23:42 | 11-10-2026| music "神様みたいに": 75% (192.61530000000002/254s)
-[1]Wilda       |08:23:53 | 11-10-2026| music "神様みたいに": 80% (203.95620000000002/254s)
-[1]Wilda       |08:24:06 | 11-10-2026| music "神様みたいに": 84% (213.91200000000003/254s)
-[1]Wilda       |08:24:08 | 11-10-2026| music "神様みたいに": selesai 213.91200000000003s
-[1]Wilda       |08:24:11 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Wilda       |08:24:23 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Wilda       |08:24:36 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.9386/269s)
-[1]Wilda       |08:24:47 | 11-10-2026| music "せーので、飛ぼう！": 11% (31.802400000000002/269s)
-[1]Wilda       |08:25:00 | 11-10-2026| music "せーので、飛ぼう！": 15% (41.763600000000004/269s)
-[1]Wilda       |08:25:11 | 11-10-2026| music "せーので、飛ぼう！": 19% (53.1486/269s)
-[1]Wilda       |08:25:22 | 11-10-2026| music "せーので、飛ぼう！": 23% (63.1242/269s)
-[1]Wilda       |08:25:33 | 11-10-2026| music "せーので、飛ぼう！": 27% (73.2663/269s)
-[1]Wilda       |08:25:45 | 11-10-2026| music "せーので、飛ぼう！": 30% (83.1861/269s)
-[1]Wilda       |08:25:57 | 11-10-2026| music "せーので、飛ぼう！": 34% (93.89699999999999/269s)
-[1]Wilda       |08:26:08 | 11-10-2026| music "せーので、飛ぼう！": 38% (104.3154/269s)
-[1]Wilda       |08:26:19 | 11-10-2026| music "せーので、飛ぼう！": 42% (114.7518/269s)
-[1]Wilda       |08:26:32 | 11-10-2026| music "せーので、飛ぼう！": 46% (124.7274/269s)
-[1]Wilda       |08:26:43 | 11-10-2026| music "せーので、飛ぼう！": 50% (135.8217/269s)
-[1]Wilda       |08:26:55 | 11-10-2026| music "せーので、飛ぼう！": 54% (146.1906/269s)
-[1]Wilda       |08:27:06 | 11-10-2026| music "せーので、飛ぼう！": 58% (156.7062/269s)
-[1]Wilda       |08:27:17 | 11-10-2026| music "せーので、飛ぼう！": 61% (166.6161/269s)
-[1]Wilda       |08:27:29 | 11-10-2026| music "せーので、飛ぼう！": 65% (176.87429999999998/269s)
-[1]Wilda       |08:27:43 | 11-10-2026| music "せーので、飛ぼう！": 69% (187.28279999999998/269s)
-[1]Wilda       |08:27:54 | 11-10-2026| music "せーので、飛ぼう！": 74% (199.81529999999998/269s)
-[1]Wilda       |08:28:07 | 11-10-2026| music "せーので、飛ぼう！": 78% (210.0708/269s)
-[1]Wilda       |08:28:19 | 11-10-2026| music "せーので、飛ぼう！": 82% (221.1849/269s)
-[1]Wilda       |08:28:20 | 11-10-2026| music "せーので、飛ぼう！": selesai 221.1849s
-[1]Wilda       |08:28:23 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Wilda       |08:28:38 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0063/276s)
-[1]Wilda       |08:28:50 | 11-10-2026| music "ON CHAIN NEXUS": 8% (22.3101/276s)
-[1]Wilda       |08:29:03 | 11-10-2026| music "ON CHAIN NEXUS": 12% (33.2208/276s)
-[1]Wilda       |08:29:15 | 11-10-2026| music "ON CHAIN NEXUS": 16% (44.4276/276s)
-[1]Wilda       |08:29:26 | 11-10-2026| music "ON CHAIN NEXUS": 20% (55.7946/276s)
-[1]Wilda       |08:29:38 | 11-10-2026| music "ON CHAIN NEXUS": 23% (65.7171/276s)
-[1]Wilda       |08:29:50 | 11-10-2026| music "ON CHAIN NEXUS": 27% (76.7988/276s)
-[1]Wilda       |08:30:02 | 11-10-2026| music "ON CHAIN NEXUS": 31% (87.0111/276s)
-[1]Wilda       |08:30:13 | 11-10-2026| music "ON CHAIN NEXUS": 35% (97.9686/276s)
-[1]Wilda       |08:30:26 | 11-10-2026| music "ON CHAIN NEXUS": 39% (108.0612/276s)
-[1]Wilda       |08:30:38 | 11-10-2026| music "ON CHAIN NEXUS": 43% (119.9223/276s)
-[1]Wilda       |08:30:49 | 11-10-2026| music "ON CHAIN NEXUS": 47% (130.6971/276s)
-[1]Wilda       |08:31:01 | 11-10-2026| music "ON CHAIN NEXUS": 50% (140.5872/276s)
-[1]Wilda       |08:31:12 | 11-10-2026| music "ON CHAIN NEXUS": 54% (150.633/276s)
-[1]Wilda       |08:31:24 | 11-10-2026| music "ON CHAIN NEXUS": 58% (160.60950000000003/276s)
-[1]Wilda       |08:31:35 | 11-10-2026| music "ON CHAIN NEXUS": 62% (171.43200000000002/276s)
-[1]Wilda       |08:31:47 | 11-10-2026| music "ON CHAIN NEXUS": 65% (181.52820000000003/276s)
-[1]Wilda       |08:31:59 | 11-10-2026| music "ON CHAIN NEXUS": 69% (192.53790000000004/276s)
-[1]Wilda       |08:32:10 | 11-10-2026| music "ON CHAIN NEXUS": 73% (202.96350000000004/276s)
-[1]Wilda       |08:32:21 | 11-10-2026| music "ON CHAIN NEXUS": 77% (213.59520000000003/276s)
-[1]Wilda       |08:32:34 | 11-10-2026| music "ON CHAIN NEXUS": 80% (223.51500000000004/276s)
-[1]Wilda       |08:32:35 | 11-10-2026| music "ON CHAIN NEXUS": selesai 223.51500000000004s
-[1]Wilda       |08:32:36 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Wilda       |08:32:39 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Wilda       |08:32:43 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Wilda       |08:32:47 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Wilda       |06:52:59 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Wilda       |06:52:59 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Wilda       |06:52:59 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Wilda       |06:52:59 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilda menjalankan: Claim Missions
-[1]Wilda       |08:32:51 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Wilda       |08:32:51 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Wilda       |08:32:51 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Wilda       |06:53:00 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Wilda       |06:53:00 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Wilda       |06:53:00 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilda menjalankan: Check Eligibility
 
 --- eligibility [1]Wilda ---
-  @wildazalika | score=920 rank=6375
-  tasks    [###################-] 73/76
+  @wildazalika | score=990 rank=6151
+  tasks    [##################--] 72/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -214,254 +66,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=false mintOpen=false discord=true
+  mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Wilda menjalankan: Read Manga
-[1]Wilda       |08:32:56 | 11-10-2026| manga: 13/13 chapter belum completed
-[1]Wilda       |08:32:56 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Wilda       |08:33:02 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Wilda       |08:33:07 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
-[1]Wilda       |08:33:12 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 10s
-[1]Wilda       |08:33:16 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 15s
-[1]Wilda       |08:33:21 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 20s
-[1]Wilda       |08:33:26 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 24s
-[1]Wilda       |08:33:31 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 29s
-[1]Wilda       |08:33:35 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 34s
-[1]Wilda       |08:33:40 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 38s
-[1]Wilda       |08:33:45 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 43s
-[1]Wilda       |08:33:51 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 48s
-[1]Wilda       |08:33:56 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 54s
-[1]Wilda       |08:34:01 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 59s
-[1]Wilda       |08:34:06 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 65s
-[1]Wilda       |08:34:11 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 69s
-[1]Wilda       |08:34:17 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 74s
-[1]Wilda       |08:34:22 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 80s
-[1]Wilda       |08:34:27 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 85s
-[1]Wilda       |08:34:31 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 90s
-[1]Wilda       |08:34:36 | 11-10-2026| manga ch1 (1): COMPLETED
-[1]Wilda       |08:34:39 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Wilda       |08:34:46 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Wilda       |08:34:52 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Wilda       |08:34:58 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 11s
-[1]Wilda       |08:35:03 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 17s
-[1]Wilda       |08:35:09 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 22s
-[1]Wilda       |08:35:15 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 28s
-[1]Wilda       |08:35:20 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 34s
-[1]Wilda       |08:35:25 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 39s
-[1]Wilda       |08:35:30 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 44s
-[1]Wilda       |08:35:36 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 49s
-[1]Wilda       |08:35:40 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 55s
-[1]Wilda       |08:35:45 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 59s
-[1]Wilda       |08:35:49 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 64s
-[1]Wilda       |08:35:54 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 68s
-[1]Wilda       |08:36:00 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 73s
-[1]Wilda       |08:36:07 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 79s
-[1]Wilda       |08:36:12 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 86s
-[1]Wilda       |08:36:17 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 91s
-[1]Wilda       |08:36:22 | 11-10-2026| manga ch2 (450001): COMPLETED
-[1]Wilda       |08:36:25 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Wilda       |08:36:31 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Wilda       |08:36:36 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
-[1]Wilda       |08:36:42 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Wilda       |08:36:47 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
-[1]Wilda       |08:36:52 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 20s
-[1]Wilda       |08:36:57 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 25s
-[1]Wilda       |08:37:02 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 31s
-[1]Wilda       |08:37:06 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 35s
-[1]Wilda       |08:37:11 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 40s
-[1]Wilda       |08:37:16 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 44s
-[1]Wilda       |08:37:21 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 49s
-[1]Wilda       |08:37:25 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 54s
-[1]Wilda       |08:37:30 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 59s
-[1]Wilda       |08:37:37 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 63s
-[1]Wilda       |08:37:43 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 70s
-[1]Wilda       |08:37:48 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 76s
-[1]Wilda       |08:37:52 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 81s
-[1]Wilda       |08:37:57 | 11-10-2026| manga ch3 (2160001): COMPLETED
-[1]Wilda       |08:38:00 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Wilda       |08:38:06 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Wilda       |08:38:11 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 4s
-[1]Wilda       |08:38:17 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
-[1]Wilda       |08:38:22 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 15s
-[1]Wilda       |08:38:26 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 20s
-[1]Wilda       |08:38:31 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 24s
-[1]Wilda       |08:38:38 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
-[1]Wilda       |08:38:45 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 36s
-[1]Wilda       |08:38:51 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 44s
-[1]Wilda       |08:38:56 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 49s
-[1]Wilda       |08:39:02 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 55s
-[1]Wilda       |08:39:08 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 60s
-[1]Wilda       |08:39:16 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 66s
-[1]Wilda       |08:39:21 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 74s
-[1]Wilda       |08:39:26 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 79s
-[1]Wilda       |08:39:33 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 84s
-[1]Wilda       |08:39:38 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 91s
-[1]Wilda       |08:39:44 | 11-10-2026| manga ch4 (2400001): COMPLETED
-[1]Wilda       |08:39:47 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Wilda       |08:39:54 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Wilda       |08:39:59 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Wilda       |08:40:06 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 10s
-[1]Wilda       |08:40:11 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 17s
-[1]Wilda       |08:40:19 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 22s
-[1]Wilda       |08:40:24 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 30s
-[1]Wilda       |08:40:29 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 35s
-[1]Wilda       |08:40:33 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 40s
-[1]Wilda       |08:40:38 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 44s
-[1]Wilda       |08:40:44 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 49s
-[1]Wilda       |08:40:51 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 55s
-[1]Wilda       |08:40:57 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 62s
-[1]Wilda       |08:41:03 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 68s
-[1]Wilda       |08:41:09 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 74s
-[1]Wilda       |08:41:14 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 80s
-[1]Wilda       |08:41:20 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 85s
-[1]Wilda       |08:41:25 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 91s
-[1]Wilda       |08:41:33 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 96s
-[1]Wilda       |08:41:39 | 11-10-2026| manga ch5 (2490001): COMPLETED
-[1]Wilda       |08:41:42 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Wilda       |08:41:50 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Wilda       |08:41:55 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 6s
-[1]Wilda       |08:42:00 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 11s
-[1]Wilda       |08:42:06 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 16s
-[1]Wilda       |08:42:11 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 22s
-[1]Wilda       |08:42:17 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 27s
-[1]Wilda       |08:42:23 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 33s
-[1]Wilda       |08:42:30 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 39s
-[1]Wilda       |08:42:35 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 46s
-[1]Wilda       |08:42:41 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 51s
-[1]Wilda       |08:42:46 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 57s
-[1]Wilda       |08:42:51 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 62s
-[1]Wilda       |08:42:58 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 67s
-[1]Wilda       |08:43:04 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 74s
-[1]Wilda       |08:43:08 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 80s
-[1]Wilda       |08:43:13 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 84s
-[1]Wilda       |08:43:17 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 89s
-[1]Wilda       |08:43:22 | 11-10-2026| manga ch6 (2610001): COMPLETED
-[1]Wilda       |08:43:25 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Wilda       |08:43:33 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Wilda       |08:43:38 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
-[1]Wilda       |08:43:45 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
-[1]Wilda       |08:43:54 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 17s
-[1]Wilda       |08:43:58 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 26s
-[1]Wilda       |08:44:03 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 30s
-[1]Wilda       |08:44:09 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 35s
-[1]Wilda       |08:44:16 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 41s
-[1]Wilda       |08:44:25 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 48s
-[1]Wilda       |08:44:31 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 57s
-[1]Wilda       |08:44:36 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 63s
-[1]Wilda       |08:44:41 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 68s
-[1]Wilda       |08:44:45 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 73s
-[1]Wilda       |08:44:50 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 77s
-[1]Wilda       |08:44:55 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 82s
-[1]Wilda       |08:44:59 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 87s
-[1]Wilda       |08:45:05 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 91s
-[1]Wilda       |08:45:12 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 97s
-[1]Wilda       |08:45:16 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 104s
-[1]Wilda       |08:45:22 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 108s
-[1]Wilda       |08:45:28 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 114s
-[1]Wilda       |08:45:34 | 11-10-2026| manga ch1 (180003): COMPLETED
-[1]Wilda       |08:45:37 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Wilda       |08:45:42 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Wilda       |08:45:48 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
-[1]Wilda       |08:45:57 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 11s
-[1]Wilda       |08:46:02 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 19s
-[1]Wilda       |08:46:08 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 24s
-[1]Wilda       |08:46:12 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 30s
-[1]Wilda       |08:46:18 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 35s
-[1]Wilda       |08:46:24 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 40s
-[1]Wilda       |08:46:29 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 47s
-[1]Wilda       |08:46:34 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 52s
-[1]Wilda       |08:46:41 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 57s
-[1]Wilda       |08:46:47 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 63s
-[1]Wilda       |08:46:53 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 69s
-[1]Wilda       |08:46:58 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 75s
-[1]Wilda       |08:47:05 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 81s
-[1]Wilda       |08:47:12 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 88s
-[1]Wilda       |08:47:17 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 94s
-[1]Wilda       |08:47:22 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 99s
-[1]Wilda       |08:47:28 | 11-10-2026| manga ch2 (990005): COMPLETED
-[1]Wilda       |08:47:31 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Wilda       |08:47:42 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Wilda       |08:47:49 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 7s
-[1]Wilda       |08:47:54 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 13s
-[1]Wilda       |08:48:01 | 11-10-2026| manga ch3: page 4 GAGAL http=503
-[1]Wilda       |08:48:06 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 23s
-[1]Wilda       |08:48:11 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 28s
-[1]Wilda       |08:48:16 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 33s
-[1]Wilda       |08:48:23 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 38s
-[1]Wilda       |08:48:30 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 45s
-[1]Wilda       |08:48:35 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 52s
-[1]Wilda       |08:48:39 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 57s
-[1]Wilda       |08:48:44 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 61s
-[1]Wilda       |08:48:49 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 66s
-[1]Wilda       |08:48:54 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 71s
-[1]Wilda       |08:48:59 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 76s
-[1]Wilda       |08:49:04 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 81s
-[1]Wilda       |08:49:09 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 85s
-[1]Wilda       |08:49:14 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 90s
-[1]Wilda       |08:49:19 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 96s
-[1]Wilda       |08:49:24 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 101s
-[1]Wilda       |08:49:29 | 11-10-2026| manga ch3 (1980001): COMPLETED
-[1]Wilda       |08:49:32 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Wilda       |08:49:38 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Wilda       |08:49:42 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
-[1]Wilda       |08:49:47 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Wilda       |08:49:52 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Wilda       |08:49:56 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 19s
-[1]Wilda       |08:50:02 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 23s
-[1]Wilda       |08:50:07 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 29s
-[1]Wilda       |08:50:11 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 34s
-[1]Wilda       |08:50:16 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 38s
-[1]Wilda       |08:50:23 | 11-10-2026| manga ch1 (2100001): COMPLETED
-[1]Wilda       |08:50:26 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Wilda       |08:50:31 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Wilda       |08:50:37 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Wilda       |08:50:42 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 10s
-[1]Wilda       |08:50:47 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 15s
-[1]Wilda       |08:50:51 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 20s
-[1]Wilda       |08:50:56 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
-[1]Wilda       |08:51:01 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 29s
-[1]Wilda       |08:51:05 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 34s
-[1]Wilda       |08:51:12 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 39s
-[1]Wilda       |08:51:16 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 45s
-[1]Wilda       |08:51:21 | 11-10-2026| manga ch1 (2070001): COMPLETED
-[1]Wilda       |08:51:24 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Wilda       |08:51:30 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Wilda       |08:51:37 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
-[1]Wilda       |08:51:44 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 12s
-[1]Wilda       |08:51:48 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 18s
-[1]Wilda       |08:51:53 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 23s
-[1]Wilda       |08:51:57 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 28s
-[1]Wilda       |08:52:03 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 32s
-[1]Wilda       |08:52:09 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 38s
-[1]Wilda       |08:52:14 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 44s
-[1]Wilda       |08:52:18 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 49s
-[1]Wilda       |08:52:23 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 53s
-[1]Wilda       |08:52:29 | 11-10-2026| manga ch2 (2520001): COMPLETED
-[1]Wilda       |08:52:32 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Wilda       |08:52:40 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Wilda       |08:52:46 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
-[1]Wilda       |08:52:52 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 10s
-[1]Wilda       |08:52:59 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 17s
-[1]Wilda       |08:53:04 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 23s
-[1]Wilda       |08:53:08 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 28s
-[1]Wilda       |08:53:13 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 33s
-[1]Wilda       |08:53:18 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 38s
-[1]Wilda       |08:53:24 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 42s
-[1]Wilda       |08:53:29 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 49s
-[1]Wilda       |08:53:34 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 54s
-[1]Wilda       |08:53:40 | 11-10-2026| manga ch3 (2550001): COMPLETED
+[1]Wilda       |06:53:04 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Wilda menjalankan: Get Gift
-[1]Wilda       |08:53:44 | 11-10-2026| gift: 3/3 belum diterima
-[1]Wilda       |08:53:45 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Wilda       |08:53:48 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Wilda       |08:53:51 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Wilda       |06:53:05 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Wilda menjalankan: Setup Profile
-[1]Wilda       |08:53:54 | 11-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Wilda       |08:53:57 | 11-10-2026| profile: OK bio="https://x.com/wildazalika" fav=oshi awarded=true +10pt
+[1]Wilda       |06:53:06 | 12-10-2026| profile: bio="https://x.com/wildazalika" fav=oshi rewardAt=1791708836
+[1]Wilda       |06:53:06 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Wilda menjalankan: Bind Wallet
-[1]Wilda       |08:53:57 | 11-10-2026| wallet: derivasi dari privateKeySolana -> DEeYicsaYXiG3wA7rsVefSz9uMaB9wF2AmU7rriY3KTj (cek cocok dengan wallet kamu!)
-[1]Wilda       |08:53:58 | 11-10-2026| wallet: /api/wallet OK (solana)
-[1]Wilda       |08:53:59 | 11-10-2026| wallet: /api/sol-address OK
+[1]Wilda       |06:53:06 | 12-10-2026| wallet: sudah terikat DEeYicsaYX... (solana)
 
 == RINGKASAN ==
-- Wilda: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 7 trek ~1368.7092000000002s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Wilda: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
