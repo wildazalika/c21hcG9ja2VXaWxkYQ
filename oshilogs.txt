@@ -12,67 +12,77 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Wilda =====
-[1]Wilda       |07:17:23 | 13-10-2026| login OK @wildazalika | score=1070 rank=5834
-[1]Wilda       |07:17:23 | 13-10-2026| serverTime=2026-10-13T07:17:23.000Z local=2026-10-13T07:17:23.521Z
+[1]Wilda       |05:42:52 | 14-10-2026| login OK @wildazalika | score=1130 rank=5421
+[1]Wilda       |05:42:52 | 14-10-2026| serverTime=2026-10-14T05:42:52.000Z local=2026-10-14T05:42:52.883Z
 --> [1]Wilda menjalankan: Claim Daily
-[1]Wilda       |07:17:24 | 13-10-2026| daily: OK +10 poin score=1080
---> [1]Wilda menjalankan: Auto All Tasks (5 pending)
-[1]Wilda       |07:17:25 | 13-10-2026| [1/5] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109905805283361325
-[1]Wilda       |07:17:25 | 13-10-2026| delay 10s...
-[1]Wilda       |07:17:37 | 13-10-2026| [2/5] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109905849214555896
-[1]Wilda       |07:17:37 | 13-10-2026| delay 10s...
-[1]Wilda       |07:17:48 | 13-10-2026| [3/5] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109905864168481926
-[1]Wilda       |07:17:48 | 13-10-2026| delay 10s...
-[1]Wilda       |07:18:00 | 13-10-2026| [4/5] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109906146692570544
-[1]Wilda       |07:18:00 | 13-10-2026| delay 10s...
-[1]Wilda       |07:18:11 | 13-10-2026| [5/5] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2109906190136583110
-[1]Wilda       |07:18:11 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Wilda       |07:18:13 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/wildazalika/status/2109906143264592624
+[1]Wilda       |05:42:53 | 14-10-2026| daily: OK +10 poin score=1140
+--> [1]Wilda menjalankan: Auto All Tasks (6 pending)
+[1]Wilda       |05:42:55 | 14-10-2026| [1/6] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2110244341473129516
+[1]Wilda       |05:42:55 | 14-10-2026| delay 10s...
+[1]Wilda       |05:43:07 | 14-10-2026| [2/6] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Wilda       |05:43:07 | 14-10-2026| delay 10s...
+[1]Wilda       |05:43:19 | 14-10-2026| [3/6] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2110244763733679927
+[1]Wilda       |05:43:19 | 14-10-2026| delay 10s...
+[1]Wilda       |05:43:32 | 14-10-2026| [4/6] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2110244520178837356
+[1]Wilda       |05:43:32 | 14-10-2026| delay 10s...
+[1]Wilda       |05:43:43 | 14-10-2026| [5/6] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wildazalika/status/2110244849086249030
+[1]Wilda       |05:43:43 | 14-10-2026| delay 10s...
+[1]Wilda       |05:43:57 | 14-10-2026| [6/6] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Wilda       |05:43:57 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Wilda       |05:43:58 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/wildazalika/status/2110244795267552708
 --> [1]Wilda menjalankan: Watch Anime
-[1]Wilda       |07:18:13 | 13-10-2026| watch: semua video sudah completed
+[1]Wilda       |05:43:59 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Wilda       |05:43:59 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Wilda       |05:44:01 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Wilda       |05:44:06 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Wilda       |05:44:08 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Wilda       |05:44:13 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Wilda       |05:44:15 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Wilda menjalankan: Read Article
-[1]Wilda       |07:18:14 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Wilda       |07:18:15 | 13-10-2026| mint eligibility: {"userId":"1780944433254674432","youtube":{"url":"https://www.youtube.com/@zwildaa","status":"submitted","revision":"6f6e245f-d967-4cf6-a724-4d317aa269c6","submittedAt":1791678434,"reviewedAt":1791688
-[1]Wilda       |07:18:15 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Wilda       |05:44:17 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Wilda       |05:44:17 | 14-10-2026| mint eligibility: {"userId":"1780944433254674432","youtube":{"url":"https://www.youtube.com/@zwildaa","status":"submitted","revision":"6f6e245f-d967-4cf6-a724-4d317aa269c6","submittedAt":1791678434,"reviewedAt":1791688
+[1]Wilda       |05:44:23 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Wilda menjalankan: Quiz Anime
-[1]Wilda       |07:18:16 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Wilda       |07:18:16 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Wilda       |07:18:16 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Wilda       |07:18:16 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Wilda       |07:18:16 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Wilda       |07:18:16 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Wilda       |05:44:26 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Wilda       |05:44:26 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Wilda       |05:44:26 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Wilda       |05:44:26 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Wilda       |05:44:26 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Wilda       |05:44:26 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Wilda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Wilda       |07:18:17 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Wilda       |07:18:18 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Wilda       |07:18:18 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Wilda       |07:18:18 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Wilda       |05:44:28 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Wilda       |05:44:29 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Wilda       |05:44:29 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Wilda       |05:44:29 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilda menjalankan: Claim Missions
-[1]Wilda       |07:18:18 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Wilda       |07:18:18 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Wilda       |07:18:18 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Wilda       |05:44:30 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Wilda       |05:44:30 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Wilda       |05:44:30 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Wilda menjalankan: Check Eligibility
 
 --- eligibility [1]Wilda ---
-  @wildazalika | score=1070 rank=5834
-  tasks    [###################-] 73/78
+  @wildazalika | score=1130 rank=5421
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Wilda menjalankan: Read Manga
-[1]Wilda       |07:18:22 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Wilda       |05:44:34 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Wilda menjalankan: Get Gift
-[1]Wilda       |07:18:22 | 13-10-2026| gift: 0/3 belum diterima
+[1]Wilda       |05:44:34 | 14-10-2026| gift: 1/4 belum diterima
+[1]Wilda       |05:44:36 | 14-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Wilda menjalankan: Setup Profile
-[1]Wilda       |07:18:23 | 13-10-2026| profile: bio="https://x.com/wildazalika" fav=oshi rewardAt=1791708836
-[1]Wilda       |07:18:23 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Wilda       |05:44:39 | 14-10-2026| profile: bio="https://x.com/wildazalika" fav=oshi rewardAt=1791708836
+[1]Wilda       |05:44:39 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Wilda menjalankan: Bind Wallet
-[1]Wilda       |07:18:24 | 13-10-2026| wallet: sudah terikat DEeYicsaYX... (solana)
+[1]Wilda       |05:44:39 | 14-10-2026| wallet: sudah terikat DEeYicsaYX... (solana)
 
 == RINGKASAN ==
-- Wilda: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Wilda: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
