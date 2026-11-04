@@ -12,60 +12,7 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Wilda =====
-[1]Wilda       |07:21:55 | 03-11-2026| login OK @wildazalika | score=2770 rank=2760
-[1]Wilda       |07:21:55 | 03-11-2026| serverTime=2026-11-03T07:21:55.000Z local=2026-11-03T07:21:55.204Z
---> [1]Wilda menjalankan: Claim Daily
-[1]Wilda       |07:21:56 | 03-11-2026| daily: OK +10 poin score=2780
---> [1]Wilda menjalankan: Auto All Tasks (3 pending)
-[1]Wilda       |07:21:58 | 03-11-2026| [1/3] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/wildazalika/status/2117517240400764863
-[1]Wilda       |07:21:58 | 03-11-2026| delay 10s...
-[1]Wilda       |07:22:15 | 03-11-2026| [2/3] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/wildazalika/status/2117517411010418621
-[1]Wilda       |07:22:15 | 03-11-2026| delay 10s...
-[1]Wilda       |07:22:27 | 03-11-2026| [3/3] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/wildazalika/status/2117517333443961489
-[1]Wilda       |07:22:27 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Wilda       |07:22:28 | 03-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/wildazalika/status/2117517163464655768
---> [1]Wilda menjalankan: Watch Anime
-[1]Wilda       |07:22:29 | 03-11-2026| watch: semua video sudah completed
---> [1]Wilda menjalankan: Read Article
-[1]Wilda       |07:22:31 | 03-11-2026| news: 34/34 artikel selesai dibaca
-[1]Wilda       |07:22:32 | 03-11-2026| mint eligibility: {"userId":"1780944433254674432","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zwildaa","status":"submitted","revision":"6f6e245f-d967-4cf6-a724-4d317aa269c6",
-[1]Wilda       |07:22:32 | 03-11-2026| news: semua artikel sudah dibaca
---> [1]Wilda menjalankan: Quiz Anime
---> [1]Wilda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Wilda       |07:22:34 | 03-11-2026| music: kedua misi sudah tercapai, stop
-[1]Wilda       |07:22:34 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Wilda       |07:22:34 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Wilda       |07:22:34 | 03-11-2026| mission anime-completed-3: sudah diklaim
---> [1]Wilda menjalankan: Claim Missions
-[1]Wilda       |07:22:35 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Wilda       |07:22:35 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Wilda       |07:22:35 | 03-11-2026| mission anime-completed-3: sudah diklaim
---> [1]Wilda menjalankan: Check Eligibility
-
---- eligibility [1]Wilda ---
-  @wildazalika | score=2770 rank=2760
-  tasks    [###############-----] 8/11
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [?]
-  watch    [####################] 22/17
-  music    [#################---] 11/13
-  artikel  [####################] 34/34
-  mint: requirementsMet=false mintOpen=false discord=true
-
---> [1]Wilda menjalankan: Read Manga
-[1]Wilda       |07:22:38 | 03-11-2026| manga: 0/13 chapter belum completed
---> [1]Wilda menjalankan: Get Gift
-[1]Wilda       |07:22:39 | 03-11-2026| gift: 3/9 belum diterima
-[1]Wilda       |07:22:40 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Wilda       |07:22:42 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Wilda       |07:22:45 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
---> [1]Wilda menjalankan: Setup Profile
-[1]Wilda       |07:22:47 | 03-11-2026| profile: bio="https://x.com/wildazalika" fav=oshi rewardAt=1791708836
-[1]Wilda       |07:22:47 | 03-11-2026| profile: bonus sudah diklaim, skip
---> [1]Wilda menjalankan: Bind Wallet
-[1]Wilda       |07:22:48 | 03-11-2026| wallet: sudah terikat DEeYicsaYX... (solana)
+[1]Wilda       |07:04:01 | 04-11-2026| dashboard ERROR: dashboard http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Wilda: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Wilda: daily=- | tasks OK 0/0
